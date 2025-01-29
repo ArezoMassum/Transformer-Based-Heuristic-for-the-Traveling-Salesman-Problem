@@ -9,15 +9,15 @@ This repository implements a heuristic solution for the **Traveling Salesman Pro
 - **Transformer-Based Model**: Implements a transformer encoder-decoder architecture adapted for solving TSP.
 - **Training & Optimization**:
   - Standard Training
-  - Training with **Gradient Accumulation**
+  - Training with Gradient Accumulation
 - **Testing & Baselines**:
   - **Random Tour** Baseline
   - **Greedy Algorithm** Baseline
-  - **Transformer Model Evaluation**
-- **Performance Analysis**: Computes the **Optimality Gap** and generates boxplots for model evaluation.
+  - Transformer Model Evaluation
+- **Performance Analysis**: Computes the Optimality Gap and generates boxplots for model evaluation.
 
 
-## 📌 Model Architecture
+## Model Architecture
 
 The implemented transformer model consists of:
 
