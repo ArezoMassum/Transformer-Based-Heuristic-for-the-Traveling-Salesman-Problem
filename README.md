@@ -11,8 +11,8 @@ This repository implements a heuristic solution for the **Traveling Salesman Pro
   - Standard Training
   - Training with Gradient Accumulation
 - **Testing & Baselines**:
-  - **Random Tour** Baseline
-  - **Greedy Algorithm** Baseline
+  - Random Tour Baseline
+  - Greedy Algorithm Baseline
   - Transformer Model Evaluation
 - **Performance Analysis**: Computes the Optimality Gap and generates boxplots for model evaluation.
 
